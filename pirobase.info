@@ -21,9 +21,8 @@ regions[content_bottom] = Content Bottom
 regions[footer_top] = Footer Top
 regions[footer_bottom] = Footer Bottom
 
-; Information added by drupal.org packaging script on 2010-04-22
-version = "6.x-1.0"
+version = "6.x-2.0-beta3"
 core = "6.x"
 project = "pirobase"
 datestamp = "1271896505"
-
+project status url = http://www.piroshare.com/fserver
